@@ -1,0 +1,6 @@
+.container{
+    width: var(--container-width-lg);
+    margin: 0,auto;
+    max-width: 2160px;
+    
+}
