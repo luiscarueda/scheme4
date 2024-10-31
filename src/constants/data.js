@@ -3,7 +3,7 @@
 
 export const headerData = [
     { title: 'ABOUT ME',
-      text:'lorem ffffff gggggg ggggggg gggggg   ',      
+      text:'CORREGIR ERRORES  ',      
     },    
   ] ;
   import images from "./images";
