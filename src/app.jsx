@@ -2,7 +2,6 @@ import './App.css'
 import React from 'react'
 import { Header,Exhibitions,Gallery,About } from './components'
 
-
 const App = () => {
   return (
     <div>
@@ -13,5 +12,4 @@ const App = () => {
     </div>
   )
 }
-
 export default App
