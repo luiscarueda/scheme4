@@ -3,7 +3,7 @@
 
 export const headerData = [
     { title: 'ABOUT ME',
-      text:'CORREGIR ERRORES  ',      
+      text:'CORREGIR APP.JSX  ',      
     },    
   ] ;
   import images from "./images";
